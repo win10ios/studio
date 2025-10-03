@@ -1,0 +1,15 @@
+- class_name: 友情链接🔗
+  class_desc: 那些人，那些事
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的博客框架
+
+- class_name: 网站
+  class_desc: 值得推荐的站点<
+  link_list:
+    - name: 四川省彭州中学
+      link: https://baike.baidu.com/item/%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%BD%AD%E5%B7%9E%E4%B8%AD%E5%AD%A6/2764761
+      avatar: https://bkimg.cdn.bcebos.com/pic/3b292df5e0fe9925bc31838195fe49df8db1ca13db91?x-bce-process=image/format,f_auto/quality,Q_70/resize,m_lfit,limit_1,w_536
+      descr: AAAAA级无垃圾桶文明校园
