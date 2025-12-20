@@ -4,7 +4,7 @@
 
 # Site
 title: 'pzstudio'
-subtitle: 'ioip||梦幻方块'
+subtitle: '锐评彭中系列'
 description: 'pzstudio-锐评九峰系列'
 keywords: 垃圾桶, 食堂, 校领导,垃圾学校
 author: pzstudio
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://pzzx.myfw.us/
+url: https://blog.mc0.ddns-ip.net/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
