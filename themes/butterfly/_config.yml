@@ -205,11 +205,16 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: |
-    <a href="https://icp.gov.moe/?keyword=20240611" target="_blank">萌ICP备20240611号</a> 2024 - 2025 © <a href="https://blog.999845.xyz" target="_blank">长夜小屋</a>丨技术支持：<a href="https://blog.xp6.top" target="_blank">xiapi</a>
-  copyright: true # Copyright of theme and framework
-
-# aside (側邊欄)               
+    custom_text: |
+      <p>
+        版权信息 © 2020 - <span id="currentYear"></span>
+        <a href="https://blog.mc0.ddns-ip.net/" target="_blank" rel="noopener noreferrer">锐评配置</a>
+        保留所有权利
+      </p>
+      <script>
+        document.getElementById('currentYear').textContent = new Date().getFullYear();
+      </script>
+  copyright: true   
 # --------------------------------------
 
 aside:
@@ -989,4 +994,5 @@ CDN:
     # utils:
     # valine:
     # waline_css:
+
     # waline_js:
